@@ -1,2 +1,2 @@
-# AI-Beginning
-School AI labs
+# AI beginning
+ 
